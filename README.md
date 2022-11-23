@@ -1,7 +1,8 @@
-# Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-
-Ex. No. : 3
-
+# Exp - 3 -Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller
+### Name : Sanjay Kumar.S.S
+### Roll no: 212221240048
+### Date of Experiment : 
+ 
 ## Aim: 
 To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 ## Components required: 
@@ -116,8 +117,8 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 ### Kiel - Program  
 
 ```
-NAME :- Sanjay Kumar.S.S
-REG NO:- 212221240048
+NAME :- Shafeeq Ahamed.S
+REG NO:- 212221230092
 
 #include <LPC214x.h>   // define LPC2148 Header file
 #define led (1<<2)     // led macro for pin 2 of port0
